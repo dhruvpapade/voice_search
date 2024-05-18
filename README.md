@@ -1,4 +1,4 @@
-# plugin_voicesearch
+# Voice Search
 
 Voice Search in Salesforce Commerce Cloud
 
